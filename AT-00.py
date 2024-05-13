@@ -1,0 +1,5 @@
+nome = input('Qual o seu nome?')
+idade = input('Qual é sua idade?')
+peso = input('E o seu peso?')
+print('Olá' ,nome, 'o seu peso é' ,peso, ' é sua idade é' ,idade, '')
+print(f'Olá {nome} o seu peso é {peso} é sua idade é {idade}')
